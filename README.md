@@ -1,6 +1,6 @@
 ## oiiiiii
 
-<div  style="display: inline">
+<div  style="display: inline_block">
   <a href="https://github.com/karinesalbueno">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karinesalbueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinesalbueno&layout=compact&langs_count=7&theme=dracula"/>
